@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeisbrito, my name is Moisés. I'm from Brazil.
-- I’m interested in a lot of things, in fact I'm electrical engineer. I like to much to play with embedded systems like Arduino, ESP32, etc.
-- I’m currently learning HTML5, CSS3 and JS because I'm migrating to the development area and based on my research I think that is a good way to start learn.
+- I’m currently learning about HTML5, CSS3, JS and PHP based on Object-Oriented Programming, MVC structure, Data Access Object class. I'm studing that because I'm migrating to the development area and, based on my research, I think that is a good way to start learn.
+- I’m interested in a lot of things of technology. In fact, I have a bachelor degree in electrical engineering and I like to much to play with embedded systems like Arduino, ESP32, 3D print, etc. Currently I'm finishing a personal DIY 3D print project based on a Prusa i3 model.
 - So, I'm so excited to learn as much as possible.
 - See ya!!!
